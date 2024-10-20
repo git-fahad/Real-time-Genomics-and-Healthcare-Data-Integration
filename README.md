@@ -20,7 +20,7 @@ This project enhances a genomic data processing pipeline by integrating transact
 
 Below is the high-level architecture flow for the project.
 
-![Flow Diagram](./genomics.png)
+![Flow Diagram](./genomicsflow.png)
 
 ## Project Structure
 
